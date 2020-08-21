@@ -157,10 +157,10 @@ a:hover {
 	content: "t";
 
 }
-/*.bp-icon-drop:after {
-	content: "Lin";
+.bp-icon-drop:after {
+	content: "m";
 }
-.bp-icon-archive:after {
+/*.bp-icon-archive:after {
 	content: "Li";
 }*/
 .bp-icon-about:after {
